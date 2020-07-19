@@ -8,6 +8,7 @@
 - Dataset must be named "data.csv" in the ``/data/output`` directory.
 - Target column must be in the first column.
 - Run in Jupyter notebook.
+- Results will be saved in the ``/data/output`` directory.
 
 ## Meta
 
